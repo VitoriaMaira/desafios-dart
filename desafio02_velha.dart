@@ -1,4 +1,4 @@
-// Desafio 2 - Jogo da Velha
+// Desafio 2- Jogo da Velha
 // dois jogadores, X e O, jogando num tabuleiro 3x3
 // ganha quem fizer 3 iguais na linha, coluna ou diagonal
 
